@@ -1,0 +1,57 @@
+/* .form {
+  width: 300px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.formCon {
+  border: 5px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 99vw;
+  height: 99vh;
+  padding: 50px 150px;
+}
+.formImgDiv {
+  width: 50%;
+  height: 600px;
+}
+.formImg {
+  width: 70%;
+  height: 400px;
+}
+.imgDiv {
+}
+.inputItem {
+  margin-top: 40px;
+} */
+
+.mainCointenerForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formCon {
+  width: 800px;
+  height: 500px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.form {
+  width: 40%;
+}
+.formImgDiv {
+  width: 50%;
+}
+
+.formImg {
+  width: 300px;
+  width: 100%;
+}

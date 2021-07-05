@@ -1,0 +1,21 @@
+.card {
+  width: 20rem;
+  height: 30rem;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.card-img-top {
+  width: 30%;
+  border-radius: 100%;
+  margin-left: 100px;
+  background: #66bfbf;
+}
+.card-body {
+  width: 100%;
+  font-size: larger;
+  color: #a7bbc7;
+  direction: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+}
